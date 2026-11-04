@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 **3. Crear la base de datos**
 
-Crear la base de datos desde pgAdmin (clic derecho en Databases > Create > Database) con el nombre de  ``` shucos_el_sapo ```
+Crear la base de datos desde pgAdmin (clic derecho en Databases > Create > Database) con el nombre de  ``` proyecto2 ```
 
 **4. Configurar la conexión**
 
@@ -45,7 +45,7 @@ Adentro poner los datos de PostgreSQL:
 ```
 DB_HOST=localhost
 DB_PORT=5432
-DB_NAME=shucos_el_sapo
+DB_NAME=proyecto2
 DB_USER=postgres
 DB_PASSWORD=su_contraseña
 ```
